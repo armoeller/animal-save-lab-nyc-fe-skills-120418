@@ -12,7 +12,7 @@ html {
 
 @media (max-width:1200px){
   #monkey {
-    top: 0px;
+    bottom: 0px;
 }
 }
 
