@@ -10,9 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media (max-width:1200px){
+@media (max-width:1200px) (min-width: 200px){
   #monkey {
-    top: 0px;
+    bottom: 0px;
 }
 }
 
