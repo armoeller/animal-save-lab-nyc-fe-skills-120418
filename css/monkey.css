@@ -14,3 +14,9 @@ html {
   #monkey {
     top: 50px;
 }
+
+@media (mi-width:300px)
+}
+#monkey {
+  top:500px;
+}
