@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media (min-width:500px){
+@media (min-width:800px){
   #monkey {
  top: 550px;
   }
