@@ -12,6 +12,7 @@ html {
 
 @media (min-width:1200px){
   #ostrich {
+    position: absolute;
     bottom: 300px;
   }
 }
