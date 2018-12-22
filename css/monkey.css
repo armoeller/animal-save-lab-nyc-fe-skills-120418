@@ -14,8 +14,10 @@ html {
   #monkey {
     top: 50px;
 }
+}
 
-@media (min-width:300px){
-  
-
+@media (min-width: 300px){
+  #monkey {
+    top: 550px;
+  }
 }
