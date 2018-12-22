@@ -19,6 +19,7 @@ html {
 @media (min-width: 600px){
   #monkey {
     bottom: 0px;
+    left: 120px;
   }
 }
 
