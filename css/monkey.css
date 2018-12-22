@@ -10,16 +10,17 @@ html {
 
 /* Write your solution here */
 
+@media (max-width:1200px){
+  #monkey {
+    top: 0px;
+}
+}
+
 @media (min-width:1100px){
   #monkey {
  top: 550px;
   }
 }
 
-@media (max-width:1200px){
-  #monkey {
-    top: 0px;
-}
-}
 
 
