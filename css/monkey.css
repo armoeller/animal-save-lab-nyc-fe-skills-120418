@@ -16,7 +16,7 @@ html {
 }
 }
 
-@media (min-width: 900px){
+@media (min-width: 700px){
   #monkey {
     top: 0px;
   }
