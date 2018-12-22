@@ -17,7 +17,7 @@ html {
   }
 }
 
-@media (max-width:1200px){
+@media (max-width:1200px-300px){
   #monkey {
     top: 50px;
 }
