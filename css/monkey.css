@@ -16,6 +16,11 @@ html {
 }
 }
 
+@media (min-width: 490px){
+  #monkey {
+    bottom: 0px;
+  }
+}
 
 
 
